@@ -43,5 +43,3 @@ Nowadays, I like built scalable web apps, with a keen eye in the details and the
 <a href="https://www.linkedin.com/in/axelav/?locale=en_US" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn axelav" height="30" width="30" /></a>
 <a href="https://twitter.com/axelav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter axelav" height="30" width="30" /></a>
 </p>
-
-Or send me a message at [hello@axelavar.com](mailto:hello@axelavar.com?subject=[GitHub]%20Source%axelavar)

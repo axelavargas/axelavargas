@@ -7,7 +7,7 @@ Nowadays, I like built scalable web apps, with a keen eye in the details and the
 <details>
     <summary><b> Writings 📝</b></summary>
 
-- [My personal blog](http://axelavar.com/).
+- [My personal blog](https://www.axelavar.com/).
 
 - [My writings in medium](https://medium.com/@axelav).
 </details>

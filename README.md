@@ -1,4 +1,4 @@
-### Hola!, I'm Alexa - aka [axelavar](http://axelavar.com/) 👋
+### Hola!, I'm Alexa - aka [axelavar](https://www.axelavar.com/) 👋
 
 A geek frontend developer with more than seven years of experience. Well-versed in Javascript using technologies such as React Js, in the past I worked with AngularJS, Backbone and I used to work as a fullstack engineer using PHP.
 

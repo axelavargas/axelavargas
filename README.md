@@ -1,9 +1,18 @@
 ### Hola!, I'm Alexa - aka [axelavar](https://www.axelavar.com/) 👋
 
-Hola! I'm Alexa - aka axelavar. 👋 A geek frontend developer with more than nine years of experience. Well-versed in Javascript using technologies such as React JS. I build scalable web applications with a keen eye for details.
+Hey, I'm Alexa (axelavar) 👋! I'm a Staff Software Engineer focused on front-end technologies and currently the tech lead of the dashboard squad at Grafana Labs. With over 10 years of experience, I love working with JavaScript and React JS. My main thing is creating web apps that are super user-friendly and can scale up. I pay a lot of attention to making sure everyone can use them (so yes, I keep accessibility (a11y) in mind), and I'm always thinking about what users need.
 
-Besides turning objectives and designs into working pieces of code and components, my day-to-day also involves thinking about new ideas, keep in mind the customer, and take ownership of initiatives that help the team and the product. With a data-driven mindset, I am open to learning new things and sharing knowledge.
+When I'm not coding, I'm all about coming up with new ideas, helping out my team, and using data to make smart choices. I'm big on always learning and sharing what I know, especially when it comes to using tech to solve real-life problems.
 
+<details>
+  <summary><b>Talks 🎬</b></summary>
+
+*  2024 - Unlocking New Features with Grafana's Latest Migration to Scenes <a href="https://drive.google.com/file/d/1ZBUXNAfJDkVaArhsl8CyIrshu-0MKpQR/view">
+slides</a>
+* a taste of reactive programming <a href="https://slides.com/axelav/reactive-programming"> slides </a>
+*  2016 - Mis primeros pasos en javascript <a href="https://slides.com/axelav/mis-primeros-pasos-con-javascript"> slides </a>
+* desplegando aplicaciones con javascript <a href="https://slides.com/axelav/desplegando-aplicaciones-php-con-heroku"> slides </a>
+</details>
 <details>
     <summary><b> Writings 📝</b></summary>
 
@@ -15,25 +24,12 @@ Besides turning objectives and designs into working pieces of code and component
 <details>
   <summary><b>Talks 🎬</b></summary>
 
-<a href="https://slides.com/axelav/reactive-programming">
-    <img alt="a taste of reactive programming" src="https://s3.eu-central-1.amazonaws.com/media-thubmnails.slid.es/reactive-programming.png" width="150">
-</a>
-
-  <a href="https://slides.com/axelav/mis-primeros-pasos-con-javascript">
-    <img alt="Mis primeros pasos en javascript" src="https://s3.eu-central-1.amazonaws.com/media-thubmnails.slid.es/primeros-pasos-javascript.png" width="150">
-  </a>
-  <a href="https://slides.com/axelav/desplegando-aplicaciones-php-con-heroku">
-    <img alt="desplegando aplicaciones con javascript" src="https://s3.eu-central-1.amazonaws.com/media-thubmnails.slid.es/desplegando-app-con-heroku.png" width="300">
-  </a>
-</details>
-
-<details>
-    <summary><b> Videos </b></summary>
-
-- Spanish channel: I shared knowledge about [my experience mentoring in IT](https://www.youtube.com/channel/UCqJ_g8DgIk5_DIHEt7spHZQ)
-
-- Personal channel: I am exploring [film and audio](https://www.youtube.com/channel/UCp2MgY1c1qhdSZjC4BFWPew)
-
+* 2024 - In Person Grafana Meetup,Amsterdam - Unlocking New Features with Grafana's Latest Migration to Scenes <a href="https://drive.google.com/file/d/1ZBUXNAfJDkVaArhsl8CyIrshu-0MKpQR/view">
+slides </a>
+* 2021 - Virtual Grafana Meetup, Amsterdam - Tales of Accessibility(A11y) on Grafana OS [slides](https://github.com/user-attachments/files/17257672/Tales.of.A11y.-.Grafana.Meetup.pdf)
+* 2016 - In-Person Meetup - Amsterdam - A taste of reactive programming,  <a href="https://slides.com/axelav/reactive-programming"> slides </a>
+* 2014 - In-Person Meetup - Medellin - Mis primeros pasos en javascript <a href="https://slides.com/axelav/mis-primeros-pasos-con-javascript"> slides </a>
+* 2014 - In-Person Meetup - Medellin - Desplegando aplicaciones con javascript <a href="https://slides.com/axelav/desplegando-aplicaciones-php-con-heroku"> slides </a>
 </details>
 
 📫 How to reach me:

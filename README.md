@@ -1,10 +1,9 @@
-  ### Hola!, I'm Alexa - aka [axelavar](https://axelavar.dev/) 👋
+  ### Hola!, I'm Alexa - aka [axelavar](https://www.axelavar.com/) 👋
 
 I'm a Staff Software Engineer at Grafana Labs, currently working on collaboration features at the
-  Sharing Squad. With 4+ years at Grafana (10+ years total experience), I focus on building frontend tools that help users work
-  together better with Grafana.
+  Sharing Squad. With 4+ years at Grafana (12+ years total experience), I focus on building frontend tools that help users work together better with Grafana.
 
-  I'm passionate about accessibility (a11y), human-centered development, and making tech work for real people, not just perfect demos.
+  I care about accessibility (a11y), I care about users, and using tech to solve problems for real people, not just perfect demos.
    My philosophy: see the human first, then the developer.
 
   When I'm not coding, I'm mentoring, sharing knowledge about tech career progression, and figuring out how to make software more

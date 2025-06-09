@@ -27,7 +27,7 @@ I'm a Staff Software Engineer at Grafana Labs, currently working on collaboratio
   ### Writings 📝
 
   * [Blogposts at work](https://grafana.com/author/alexa-vargas-ortega/)
-  * [My personal portfolio](https://axelavar.dev/)
+  * [My personal portfolio](https://www.axelavar.com/)
   * [My writings in medium](https://medium.com/@axelav)
 
   📫 How to reach me:
